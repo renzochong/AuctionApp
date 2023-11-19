@@ -10,7 +10,7 @@ As mentioned before there are other websites with similar capabilities but there
 I think a web app like this will be solving the problem for people that are trying to sell their machines on and get the best offers without having to deal with scammers and low offers. 
 
 Main Page would look like this:
-![Alt text](Images/Auction_Main.png)
+![Alt text](AuctionApp/Images/Auction_Main.png)
 
 Item select would look like this:
-![Alt text](Images/Auction_BuyPage.png)# AuctionApp
+![Alt text](AuctionApp/Images/Auction_BuyPage.png)# AuctionApp
